@@ -35,13 +35,14 @@ Sproutly is a Swift Playgrounds app created to help users be productive while al
   
 ## 📸 Screenshots (Optional)
 
-<img width="375" height="627" alt="Screenshot 2025-07-14 at 3 30 26 PM" src="https://github.com/user-attachments/assets/c12f14cb-d2da-49a5-8568-f45ca42d967e" />
-
+<img src=“ReadMeImages/1.png” width="300">
+<img src=“ReadMeImages/2.png” width="300">
+<img src=“ReadMeImages/3.png” width="300">
 
 ## 🧑‍🎓 Author
 
-Created by [Student Name]  
-GitHub: [github.com/yourusername](https://github.com/yourusername)
+Created by Ally Rogin
+GitHub: [github.com/allyrogin](https://github.com/allyrogin)
 
 ## 📄 License (Optional)
 
